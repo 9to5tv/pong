@@ -9,12 +9,12 @@ module.exports = {
   development: {
     PUSHER_KEY: '',
     SERVER_URL: '',
-    CHANNEL_NAME: 'pong-game-control'
+    CHANNEL_NAME: 'private-pong-game-control'
   },
   production: {
     PUSHER_KEY: '',
     SERVER_URL: '',
-    CHANNEL_NAME: 'pong-game-control'
+    CHANNEL_NAME: 'private-pong-game-control'
   }
 };
 ```
